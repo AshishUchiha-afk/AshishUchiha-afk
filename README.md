@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshishUchiha-afk
 - 👀 I’m interested in Cloud, Linux, Python, AI/ML.
-- 🌱 I’m currently learning Azure cloud.
+- 🌱 I’m currently learning AI/ML.
 - 💞️ I’m looking to collaborate on could projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Science.
